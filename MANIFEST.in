@@ -1,5 +1,4 @@
 include LICENSE.txt
-include requirements.txt
 include appmode/appmode.html
 include appmode/appmode_top.css
 include appmode/appmode_bottom.css
