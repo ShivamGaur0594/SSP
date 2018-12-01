@@ -29,6 +29,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 # install Jupyter via pip
 RUN pip3 install notebook
+RUN pip install numpy
 
 
 # install ipywidgets
